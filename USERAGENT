@@ -1,8 +1,0 @@
-USER-AGENT,WeChat,DIRECT
-USER-AGENT,QQ,DIRECT
-USER-AGENT,Google,Proxy
-USER-AGENT,Twitter,Proxy
-USER-AGENT,Facebook,Proxy
-USER-AGENT,Instagram,Proxy
-USER-AGENT,YouTube,Proxy
-USER-AGENT,Advert,REJECT
