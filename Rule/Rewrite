@@ -60,3 +60,4 @@
 ^http://i.gtimg.cn/ https://i.gtimg.cn/ 302
 ^http://cfg.m.ttkvod.com/mobile/ttk_mobile_1.8.txt http://ogtre5vp0.bkt.clouddn.com//Static/TXT/ttk_mobile_1.8.txt header
 ^http://static.m.ttkvod.com/static_cahce/index/index.txt http://ogtre5vp0.bkt.clouddn.com//Static/TXT/index.txt header
+^http://issuecdn.baidupcs.com/issue/netdisk/guanggao/ http://BurpSuite.Site/Other/Static/Images/background.png? header
