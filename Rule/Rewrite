@@ -31,7 +31,6 @@
 ^http://yes1.feng.com/images http://BurpSuite.Site/Other/Static/Images/background.png? header
 ^http://yes1.feng.com/view.php http://BurpSuite.Site/Other/Static/PHP/Package.php header
 ^http://fengplus.feng.com/index.php http://BurpSuite.Site/Other/Application/Feng/FengPlus.php?Method=FengPlus& header
-^http://push.feng.com/index.php http://BurpSuite.Site/Other/Application/Feng/FengPlus.php?Method=Push& header
 ^http://www.iqshw.com/d/js/m http://BurpSuite.Site/Other/Static/JS/Package.js? header
 ^http://r.inews.qq.com/upLoadLoc http://BurpSuite.Site/Other/Static/JSON/Package.json header
 ^http://r.inews.qq.com/getNewsRemoteConfig http://BurpSuite.Site/Other/Static/JSON/Package.json header
