@@ -1,5 +1,6 @@
 ^http://www.google.cn http://www.google.com header
 ^http://youtube.com https://youtube.om 302
+^http://burpsuite.site https://burpsuite.site 302
 ^http://101.251.211.235 http://BurpSuite.Site/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://103.249.254.113 http://BurpSuite.Site/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://106.75.65.92 http://BurpSuite.Site/Other/Anti-Hijack/Anti-Hijack.php? header
