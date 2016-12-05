@@ -10,8 +10,8 @@
 ^http://139.196.239.52 http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://183.131.79.30 http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://211.155.94.198 http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
-^http://mob.huimee.net/ http://BurpSuite.Site:10/Other/Static/JSON/Package.json header
-^http://ref.huimee.net/ http://BurpSuite.Site:10/Other/Static/JSON/Package.json header
+^http://mob.huimee.net/ http://BurpSuite.Site:10/Other/Static/JSON/Package.json? header
+^http://ref.huimee.net/ http://BurpSuite.Site:10/Other/Static/JSON/Package.json? header
 ^http://cache.gclick.cn/ http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://cache.changjingyi.cn/ http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://c.minisplat.cn/ http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
