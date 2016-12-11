@@ -66,5 +66,4 @@
 ^http://static.m.ttkvod.com/static_cahce/index/index.txt http://ogtre5vp0.bkt.clouddn.com//Static/TXT/index.txt header
 ^http://issuecdn.baidupcs.com/issue/netdisk/guanggao/ http://BurpSuite.Site:10/Other/Static/Images/background.png? header
 ^http://dldir1.qq.com/music/clntupate/luyinji11.zip http://dldir1.qq.com/music/clntupate/cidai13.zip header
-
-
+^http://dldir1.qq.com/music/clntupate/ios_gonghexinchun2.zip http://dldir1.qq.com/music/clntupate/ios_bigbangold.zip header
