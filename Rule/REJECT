@@ -47,6 +47,7 @@ DOMAIN,adcdn.goo.ne.jp
 DOMAIN-SUFFIX,ad-mapps.com
 DOMAIN,apppv.zol.com.cn
 DOMAIN-SUFFIX,aiwuqi.com.cn
+DOMAIN-SUFFIX,admx.baixing.com
 DOMAIN-SUFFIX,adspod.cn
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN,ai0.pub.funshion.com
@@ -273,6 +274,7 @@ DOMAIN-SUFFIX,fastapi.net
 DOMAIN-SUFFIX,fugetech.com
 DOMAIN-SUFFIX,file.market.xiaomi.com
 DOMAIN-SUFFIX,flurry.com
+DOMAIN-SUFFIX,feih.com.cn
 DOMAIN-SUFFIX,fugetech.com
 DOMAIN,file.ws.126.net
 DOMAIN,fsf.org
@@ -294,6 +296,7 @@ DOMAIN-SUFFIX,game.ifeng.com
 DOMAIN-SUFFIX,gclick.cn
 DOMAIN-SUFFIX,ggjia.cn
 DOMAIN-SUFFIX,ggdoubi.com
+DOMAIN-SUFFIX,gtags.net
 DOMAIN-SUFFIX,goyoo.cn
 DOMAIN,gad.kugpu.com
 DOMAIN,gcapi.sy.kugou.com
@@ -418,6 +421,7 @@ DOMAIN-SUFFIX,love.bobo.com
 DOMAIN-SUFFIX,link0.com
 DOMAIN-SUFFIX,ljrtb.cn
 DOMAIN,livep.l.qq.com
+DOMAIN,linkvans.com
 DOMAIN-SUFFIX,lianmeng.360.cn
 DOMAIN-SUFFIX,localytics.com
 DOMAIN,livew.l.qq.com
@@ -458,6 +462,7 @@ DOMAIN-SUFFIX,mmg.aty.sohu.com
 DOMAIN-SUFFIX,mediasmart.es
 DOMAIN-SUFFIX,minisplat.cn
 DOMAIN-SUFFIX,mookie1.com
+DOMAIN-SUFFIX,majorserving.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mydas.mobi
@@ -535,6 +540,7 @@ DOMAIN,supersonicads-a.akamaihd.net
 DOMAIN-SUFFIX,sijiys.com
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,sax.sina.cn
+DOMAIN-SUFFIX,sijiys.com
 DOMAIN,stat.letv.com
 DOMAIN-SUFFIX,sp.qf.56.com
 DOMAIN-SUFFIX,serving-sys.com
