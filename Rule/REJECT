@@ -69,7 +69,6 @@ DOMAIN,ad.thsi.cn
 DOMAIN,api.newad.ifeng.com
 DOMAIN,api.iapps.ifeng.com
 DOMAIN-SUFFIX,adinfuse.com
-DOMAIN-SUFFIX,adhouyi.com
 DOMAIN-SUFFIX,afp.qiyi.com
 DOMAIN-SUFFIX,avazutracking.net
 DOMAIN-SUFFIX,admob.com
@@ -109,7 +108,6 @@ DOMAIN,admgr.qingting.fm
 DOMAIN-SUFFIX,applifier.com
 DOMAIN,ads.service.kugou.com
 DOMAIN,apk.shouji.koowo.com
-DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,alimama.cn
 DOMAIN-SUFFIX,alimama.com
 DOMAIN-SUFFIX,ad.api.3g.tudou.com
@@ -128,10 +126,8 @@ DOMAIN-SUFFIX,analytics.126.net
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,analytics-union.xunlei.com
-DOMAIN-SUFFIX,applifier.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,adnetworkperformance.com
-DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,appintop.com
 DOMAIN,adeventtracker.spotify.com
 DOMAIN-SUFFIX,adgeo.163.com
@@ -187,7 +183,6 @@ DOMAIN-SUFFIX,cl.webterren.com
 DOMAIN-SUFFIX,ccxhd.net
 DOMAIN-SUFFIX,confirmation.gameloft.com
 DOMAIN-SUFFIX,comic.hanhande.com
-DOMAIN-SUFFIX,cocounion.com
 DOMAIN-SUFFIX,comic.52pk.com
 DOMAIN-SUFFIX,cmcore.com
 DOMAIN-SUFFIX,coremetrics.com
@@ -207,9 +202,7 @@ DOMAIN-SUFFIX,capp.simsimi.com
 DOMAIN-SUFFIX,ckm.iqiyi.com
 DOMAIN-SUFFIX,colorfulapp.com
 DOMAIN-SUFFIX,cywl5.com
-DOMAIN-SUFFIX,ccxhd.net
 DOMAIN-SUFFIX,ctsywy.com
-DOMAIN-SUFFIX,ccxhd.net
 DOMAIN-SUFFIX,cdjyk.net
 DOMAIN-SUFFIX,cpro.cr173.com
 DOMAIN-SUFFIX,counter.yesky.com
@@ -241,10 +234,8 @@ DOMAIN,dev.dc.letv.com
 DOMAIN-SUFFIX,domob.com.cn
 DOMAIN-SUFFIX,dnspro.cn
 DOMAIN-SUFFIX,dongsi107.cn
-DOMAIN-SUFFIX,dmp.sina.cn
 DOMAIN,d.kugou.com
 DOMAIN-SUFFIX,dmp.org.cn
-DOMAIN-SUFFIX,dxpmedia.com
 DOMAIN,datax.baidu.com
 DOMAIN-SUFFIX,domob.org
 DOMAIN-SUFFIX,dragonparking.com
@@ -277,7 +268,6 @@ DOMAIN-SUFFIX,fugetech.com
 DOMAIN-SUFFIX,file.market.xiaomi.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,feih.com.cn
-DOMAIN-SUFFIX,fugetech.com
 DOMAIN,file.ws.126.net
 DOMAIN,fsf.org
 DOMAIN,fz.letv.com
@@ -289,7 +279,6 @@ DOMAIN-SUFFIX,gtags.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googeadsserving.cn
@@ -298,7 +287,6 @@ DOMAIN-SUFFIX,game.ifeng.com
 DOMAIN-SUFFIX,gclick.cn
 DOMAIN-SUFFIX,ggjia.cn
 DOMAIN-SUFFIX,ggdoubi.com
-DOMAIN-SUFFIX,gtags.net
 DOMAIN-SUFFIX,goyoo.cn
 DOMAIN,gad.kugpu.com
 DOMAIN,gcapi.sy.kugou.com
@@ -359,7 +347,6 @@ DOMAIN,ipengtai.huanqiu.com
 DOMAIN-SUFFIX,idougou.com.cn
 DOMAIN-SUFFIX,i8.com.cn
 DOMAIN,ibsnssdk.com
-DOMAIN-SUFFIX,iuyhjn.com
 DOMAIN-SUFFIX,i8card.com
 DOMAIN-SUFFIX,i8os.cn
 DOMAIN,ios.bugly.qq.com
@@ -377,7 +364,6 @@ DOMAIN,ichannel.snssdk.com
 DOMAIN-SUFFIX,ingameads.gameloft.com
 DOMAIN-SUFFIX,img.fd7c.com
 DOMAIN-SUFFIX,inmobicdn.net
-DOMAIN-SUFFIX,ipduo.cn
 DOMAIN,jzt.jd.com
 DOMAIN-SUFFIX,j.pcpop.com
 DOMAIN-SUFFIX,jiaoyueba.com
@@ -517,7 +503,6 @@ DOMAIN-SUFFIX,quote.tool.hexun.com
 DOMAIN-SUFFIX,qf.56.com
 DOMAIN-SUFFIX,qqabcd8899.cn
 DOMAIN-SUFFIX,qtmojo.com
-DOMAIN-SUFFIX,qtmojo.com
 DOMAIN-SUFFIX,qos.117go.com
 DOMAIN-SUFFIX,rtax.criteo.com
 DOMAIN,r.yy.com
@@ -626,7 +611,6 @@ DOMAIN-SUFFIX,whxhxwz.com
 DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,wan.sogou.com
 DOMAIN,wan.liebao.cn
-DOMAIN-SUFFIX,wrating.com
 DOMAIN,wt.39.net
 DOMAIN-SUFFIX,wkanx.com
 DOMAIN-SUFFIX,waps.cn
