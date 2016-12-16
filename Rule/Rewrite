@@ -67,3 +67,5 @@
 ^http://dldir1.qq.com/music/clntupate/ios_gonghexinchun2.zip http://dldir1.qq.com/music/clntupate/ios_bigbangold.zip header
 ^http://m.elecfans.com/static/js/ad.js - reject
 ^http://www1.elecfans.com/www/delivery/ - reject
+^http://211.98.71.195:8080/ https://burpsuite.site/Other/Application/ChinaRailcom/ChinaRailcom.php? 302
+^http://211.98.71.196:8080/ https://burpsuite.site/Other/Application/ChinaRailcom/ChinaRailcom.php? 302
