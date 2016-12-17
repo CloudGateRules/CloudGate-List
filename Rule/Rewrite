@@ -70,3 +70,7 @@
 ^http://211.98.71.195:8080/ https://burpsuite.site/Other/Application/ChinaRailcom/ChinaRailcom.php 302
 ^http://211.98.71.196:8080/ https://burpsuite.site/Other/Application/ChinaRailcom/ChinaRailcom.php 302
 ^http://config.daoapp.io/ https://burpsuite.site/ 302
+^http://api.tv.sohu.com/v4/mobile/control/switch.json - reject
+^http://api.tv.sohu.com/mobile_user/device/clientconf.json - reject
+^http://api.k.sohu.com/api/channel/ad/ - reject
+^http://pic.k.sohu.com/img8/wb/tj/ - reject
