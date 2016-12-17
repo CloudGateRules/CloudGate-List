@@ -69,3 +69,4 @@
 ^http://www1.elecfans.com/www/delivery/ - reject
 ^http://211.98.71.195:8080/ https://burpsuite.site/Other/Application/ChinaRailcom/ChinaRailcom.php 302
 ^http://211.98.71.196:8080/ https://burpsuite.site/Other/Application/ChinaRailcom/ChinaRailcom.php 302
+^http://config.daoapp.io/ https://burpsuite.site/ 302
