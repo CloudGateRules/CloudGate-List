@@ -74,6 +74,3 @@
 ^http://api.tv.sohu.com/mobile_user/device/clientconf.json - reject
 ^http://api.k.sohu.com/api/channel/ad/ - reject
 ^http://pic.k.sohu.com/img8/wb/tj/ - reject
-^http://api.k.sohu.com/api/news/v5/relevance.go - reject
-^http://api.k.sohu.com/api/share/shareon.go - reject
-^http://api.k.sohu.com/api/channel/v6/news.go - reject
