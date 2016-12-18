@@ -74,3 +74,4 @@
 ^http://api.tv.sohu.com/mobile_user/device/clientconf.json - reject
 ^http://api.k.sohu.com/api/channel/ad/ - reject
 ^http://pic.k.sohu.com/img8/wb/tj/ - reject
+^http://9194597c51c0c.cdn.sohucs.com/sdk/Payload201612051554.zip http://ogtre5vp0.bkt.clouddn.com/Payload201612051554.zip header
