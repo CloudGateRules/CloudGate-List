@@ -13,10 +13,10 @@
 ^http://cache.gclick.cn/ http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://cache.changjingyi.cn/ http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://c.minisplat.cn/ http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
-^http://www.babyye.com/b.php? http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php 302
-^http://www.likeji.net/b.php? http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php 302
-^http://m.coolaiy.com/b.php? http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php 302
-^http://www.gwv7.com/b.php? http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php 302
+^http://www.babyye.com/b.php? http://BurpSuite.Site/Other/Anti-Hijack/Anti-Hijack.php 302
+^http://www.likeji.net/b.php? http://BurpSuite.Site/Other/Anti-Hijack/Anti-Hijack.php 302
+^http://m.coolaiy.com/b.php? http://BurpSuite.Site/Other/Anti-Hijack/Anti-Hijack.php 302
+^http://www.gwv7.com/b.php? http://BurpSuite.Site/Other/Anti-Hijack/Anti-Hijack.php 302
 ^http://jd.cn/ http://BurpSuite.Site:10/Other/Application/360Buy/360Buy.php?&JDMethod=H5HOME&JDHijack= header
 ^http://jd.com/ http://BurpSuite.Site:10/Other/Application/360Buy/360Buy.php?&JDMethod=H5HOME&JDHijack= header
 ^http://www.jd.com/ http://BurpSuite.Site:10/Other/Application/360Buy/360Buy.php?&JDMethod=H5HOME&JDHijack= header
