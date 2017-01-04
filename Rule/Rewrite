@@ -76,3 +76,5 @@
 ^http://api.k.sohu.com/api/channel/ad/ - reject
 ^http://pic.k.sohu.com/img8/wb/tj/ - reject
 ^http://n.mark.letv.com/m3u8api/ http://Burpsuite.Site:10/Other/Application/Letv/Letv.php header
+^http://static.iask.cn/m-v20161228/js/common/adAudit.min.js - reject
+^http://dd.iask.cn/ddd/adAudit - reject
