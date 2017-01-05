@@ -10,6 +10,10 @@
 ^http://139.196.239.52 http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://183.131.79.30 http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://211.155.94.198 http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
+^http://120.55.199.139 http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
+^http://223.6.255.99 http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
+^http:120.26.151.246 http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
+
 ^http://cache.gclick.cn/ http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://cache.changjingyi.cn/ http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://c.minisplat.cn/ http://BurpSuite.Site:10/Other/Anti-Hijack/Anti-Hijack.php? header
