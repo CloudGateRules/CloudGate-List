@@ -22,6 +22,7 @@
 ^http://www.gwv7.com/b.php? http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php 302
 ^http://jd.cn/ http://rewrite.websocket.site:10/Other/Application/360Buy/360Buy.php?&JDMethod=H5HOME&JDHijack= header
 ^http://jd.com/ http://rewrite.websocket.site:10/Other/Application/360Buy/360Buy.php?&JDMethod=H5HOME&JDHijack= header
+^http://www.jd.cn/ http://rewrite.websocket.site:10/Other/Application/360Buy/360Buy.php?&JDMethod=H5HOME&JDHijack= header
 ^http://www.jd.com/ http://rewrite.websocket.site:10/Other/Application/360Buy/360Buy.php?&JDMethod=H5HOME&JDHijack= header
 ^http://m.jd.com/ http://rewrite.websocket.site:10/Other/Application/360Buy/360Buy.php?&JDMethod=H5HOME&JDHijack= header
 ^http://item.m.jd.com/ http://rewrite.websocket.site:10/Other/Application/360Buy/360Buy.php?&JDMethod=Browse&JDHijack= header
