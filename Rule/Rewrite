@@ -59,6 +59,7 @@
 ^http://r.l.youku.com/rec_at_click - reject
 ^http://api.appsdk.soku.com/tag/r - reject
 ^http://api.mobile.youku.com/layout/search/hot/word - reject
+^http://m.youku.com/video/libs/iwt.js - reject
 ^http://api.appsdk.soku.com/bg/r - reject
 ^http://i.gtimg.cn/ https://i.gtimg.cn/ 302
 ^http://cfg.m.ttkvod.com/mobile/ttk_mobile_1.8.txt http://ogtre5vp0.bkt.clouddn.com//Static/TXT/ttk_mobile_1.8.txt header
