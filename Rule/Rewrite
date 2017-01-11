@@ -82,3 +82,4 @@
 ^http://n.mark.letv.com/m3u8api/ http://rewrite.websocket.site:10/Other/Application/Letv/Letv.php header
 ^http://static.iask.cn/m-v20161228/js/common/adAudit.min.js - reject
 ^http://dd.iask.cn/ddd/adAudit - reject
+^http://v.17173.com/api/Allyes/ - reject
