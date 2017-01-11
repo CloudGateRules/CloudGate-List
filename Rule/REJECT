@@ -206,6 +206,7 @@ DOMAIN,counter.kingsoft.com
 DOMAIN-SUFFIX,cpro.baidu.com.cn
 DOMAIN-SUFFIX,c.ns8d.com
 DOMAIN-SUFFIX,csbew.com
+DOMAIN-SUFFIX,c0563.com
 DOMAIN,c.l.qq.com
 DOMAIN-SUFFIX,cre.dp.sina.cn
 DOMAIN-SUFFIX,capp.simsimi.com
@@ -288,6 +289,7 @@ DOMAIN-SUFFIX,forjs.net
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN,g.q4ik.com
 DOMAIN,g1.163.com
+DOMAIN-SUFFIX,gg.gao7.com
 DOMAIN-SUFFIX,gtags.net
 DOMAIN,g3.letv.com
 DOMAIN-SUFFIX,google-analytics.com
@@ -573,6 +575,7 @@ DOMAIN,stat.m.jd.com
 DOMAIN-SUFFIX,statics.motu.pagechoice.net
 DOMAIN-SUFFIX,so.hexun.com
 DOMAIN-SUFFIX,s.cr-nielsen.com
+DOMAIN-SUFFIX,sykty.com
 DOMAIN,stat.10jqka.com.cn
 DOMAIN-SUFFIX,score.my.tv.sohu.com
 DOMAIN-SUFFIX,sdkapp.mobile.sina.cn
