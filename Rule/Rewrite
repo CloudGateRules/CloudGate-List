@@ -83,3 +83,4 @@
 ^http://static.iask.cn/m-v20161228/js/common/adAudit.min.js - reject
 ^http://dd.iask.cn/ddd/adAudit - reject
 ^http://v.17173.com/api/Allyes/ - reject
+^http://sqimg.qq.com/ https://sqimg.qq.com/ 302
