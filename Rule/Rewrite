@@ -84,6 +84,6 @@
 ^http://dd.iask.cn/ddd/adAudit - reject
 ^http://v.17173.com/api/Allyes/ - reject
 ^http://sqimg.qq.com/ https://sqimg.qq.com/ 302
-^http://i-play.mobile.youku.com/common/v5/play? http://1.burpsuite.applinzi.com/YouKu.php header
-^http://d.m6.cms.mobile.youku.com/player/domain_name? http://1.burpsuite.applinzi.com/YouKu.php header
-^http://1.burpsuite.applinzi.com/common/v5/play http://1.burpsuite.applinzi.com/YouKu.php header
+^http://i-play.mobile.youku.com/common/v5/play? http://burpsuite.applinzi.com/YouKu.php header
+^http://d.m6.cms.mobile.youku.com/player/domain_name? http://burpsuite.applinzi.com/YouKu.php header
+^http://1.burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/YouKu.php header
