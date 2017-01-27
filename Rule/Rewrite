@@ -89,4 +89,4 @@
 ^http://1.burpsuite.applinzi.com/common/v5/play http://1.burpsuite.applinzi.com/YouKu.php header
 ^http://hd.mobile.youku.com/common/v3/hudong/new - reject
 ^http://img.t.sinajs.cn/t4/appstyle/photo/images/video/touch-0.2.13.min.js http://ogtre5vp0.bkt.clouddn.com/touch-0.2.13.min.js header
-^http://spark.xiami.com/api http://1.burpsuite.applinzi.com/Xiami.php header
+^http://spark.api.xiami.com/api http://1.burpsuite.applinzi.com/Xiami.php header
