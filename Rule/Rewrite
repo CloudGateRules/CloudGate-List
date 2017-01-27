@@ -87,3 +87,4 @@
 ^http://i-play.mobile.youku.com/common/v5/play? http://1.burpsuite.applinzi.com/YouKu.php header
 ^http://d.m6.cms.mobile.youku.com/player/domain_name? http://1.burpsuite.applinzi.com/YouKu.php header
 ^http://1.burpsuite.applinzi.com/common/v5/play http://1.burpsuite.applinzi.com/YouKu.php header
+^http://hd.mobile.youku.com/common/v3/hudong/new - reject
