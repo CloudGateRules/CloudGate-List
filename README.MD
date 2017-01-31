@@ -3,9 +3,9 @@
 ## 关于如何使用:
 >简单的描述一下,首先你需要Fork一下本项目,当然你也可以使用其他人的规则列表!<br>
 >紧接着你可以访问以下地址下载属于你的自定义规则或者修改规则列表文件如:<br>
-><code>https://{项目地址}/{目录}/{规则}.php?RuleList=https://raw.githubusercontent.com/{Github用户名}/CloudGate-RuleList/master/Rule/</code>
+><code>https://{项目地址}/{目录}/{目录}/{规则}.php?RuleList=https://raw.githubusercontent.com/{Github用户名}/CloudGate-RuleList/master/Rule/</code>
 <br>
-><code>https://async.be/Basic/Surge.php?RuleList=https://raw.githubusercontent.com/educationECC/CloudGate-RuleList/master/Rule/</code>
+><code>https://async.be/Rule/Basic/Surge.php?RuleList=https://raw.githubusercontent.com/educationECC/CloudGate-RuleList/master/Rule/</code>
 <br>
 >可以在参数的结尾用'&'符连接其他参数,参数不区分顺序,所有规则都可以使用'RuleList'功能!<br>
 >禁止添加"大文件"即524288字节(512KB)以上的,所有大文件将会被拒绝!<br>
