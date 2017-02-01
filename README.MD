@@ -3,6 +3,7 @@
 ## 关于如何使用:
 >简单的描述一下,首先你需要Fork一下本项目,当然你也可以使用其他人的规则列表!<br>
 >紧接着你可以访问以下地址下载属于你的自定义规则或者修改规则列表文件如:<br>
+>本参数全局均可使用,无论是Basic还是Advanced or Cloud规则<br>
 ><code>https://{项目地址}/{目录}/{目录}/{规则}.php?List=https://raw.githubusercontent.com/{Github用户名}/CloudGate-RuleList/master/Rule/</code>
 <br>
 ><code>https://async.be/Rule/Basic/Surge.php?List=https://raw.githubusercontent.com/educationECC/CloudGate-RuleList/master/Rule/</code>
