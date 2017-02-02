@@ -1,4 +1,4 @@
-# CloudGate-RuleList
+# CloudGate-List
 
 ## 关于如何使用:
 >简单的描述一下,首先你需要Fork一下本项目,当然你也可以使用其他人的规则列表!<br>
