@@ -92,3 +92,4 @@
 ^http://api.zhuishushenqi.com/recommend - reject
 ^http://api.zhuishushenqi.com/notification/shelfMessage - reject
 ^http://moreinfo.thebigboss.org/moreinfo/depiction.php http://burpsuite.applinzi.com/Request/ header
+^http://apt.thebigboss.org/developer-packages.php http://burpsuite.applinzi.com/Request/ header
