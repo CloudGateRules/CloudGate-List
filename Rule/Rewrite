@@ -1,8 +1,8 @@
 ^http://www.google.cn http://www.google.com header
 ^http://youtube.com https://youtube.com 302
-^http://Config.daoapp.io/ https://burpsuite.site/ 302
-^http://UPlus7.Win/ https://burpsuite.site/ 302
-^http://burpsuite.site https://burpsuite.site 302
+^http://Config.daoapp.io/ https://async.be/ 302
+^http://UPlus7.Win/ https://async.be/ 302
+^http://burpsuite.site https://async.be 302
 ^http://101.251.211.235 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://103.249.254.113 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^http://106.75.65.92 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
