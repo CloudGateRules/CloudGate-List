@@ -1,3 +1,4 @@
+# Rewrite
 ^http://www.google.cn http://www.google.com header
 ^http://youtube.com https://youtube.com 302
 ^http://Config.daoapp.io/ https://async.be/ 302
