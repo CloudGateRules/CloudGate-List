@@ -29,6 +29,7 @@
 ^http://www.jd.cn https://m.jd.com 302
 ^http://www.jd.com https://m.jd.com 302
 ^http://m.jd.com https://m.jd.com 302
+^http://union.click.jd.com https://m.jd.com 302
 ^http://item.m.jd.com/ https://item.m.jd.com/ 302
 ^http://p.m.jd.com/ https://p.m.jd.com/ 302
 ^http://so.m.jd.com/ https://so.m.jd.com/ 302
