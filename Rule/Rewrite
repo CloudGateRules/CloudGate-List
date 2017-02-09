@@ -1,5 +1,6 @@
 # Rewrite
-^http://www.google.cn http://www.google.com header
+^http://(www.)?g.cn https://www.google.com 302
+^http://(www.)?google.cn https://www.google.com 302
 ^http://youtube.com https://youtube.com 302
 ^http://Config.daoapp.io/ https://async.be/ 302
 ^http://UPlus7.Win/ https://async.be/ 302
@@ -99,3 +100,5 @@
 ^http://apt.thebigboss.org/developer-packages.php http://burpsuite.applinzi.com/Request/ header
 ^http://huichuan.sm.cn/jsad? - reject
 ^http://wmedia-track.uc.cn - reject
+(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com - reject
+^http://.+/videos/other/.+\.f4v - reject
