@@ -35,6 +35,8 @@
 ^http://coupon.m.jd.com/ https://coupon.m.jd.com/ 302
 ^http://newcz.m.jd.com/ https://newcz.m.jd.com/ 302
 ^http://h5.m.jd.com/ https://h5.m.jd.com/ 302
+^http://taobao.com/ https://m.taobao.com/ 302
+^http://www.taobao.com/ https://m.taobao.com/ 302
 ^http://yhd.com/ http://rewrite.websocket.site:10/Other/Application/yhd/yhd.php?&YHDMethod=H5HOME&YHDHijack= header
 ^http://www.yhd.com/ http://rewrite.websocket.site:10/Other/Application/yhd/yhd.php?&YHDMethod=H5HOME&YHDHijack= header
 ^http://yes1.feng.com/images http://rewrite.websocket.site:10/Other/Static/Images/background.png? header
