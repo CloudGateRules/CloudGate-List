@@ -8,7 +8,7 @@
 <br>
 ><code>https://async.be/Rule/Basic/Surge.php?List=https://raw.githubusercontent.com/lhie1/CloudGate-List/master/Rule/</code>
 <br>
->可以在参数的结尾用'&'符连接其他参数,参数不区分顺序,所有规则都可以使用'RuleList'功能!<br>
+>可以在参数的结尾用'&'符连接其他参数,参数不区分顺序,所有规则都可以使用'List'功能!<br>
 >禁止添加"大文件"即524288字节(512KB)以上的,所有大文件将会被拒绝!<br>
 >规则列表的格式不同于规则格式,如下列格式:<br>
 >Proxy(Advanced/Basic):<code>DOMAIN,0rz.tw or DOMAIN-SUFFIX,0rz.tw</code><br>
