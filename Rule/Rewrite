@@ -24,11 +24,11 @@
 ^http://www.likeji.net/b.php? http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php 302
 ^http://m.coolaiy.com/b.php? http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php 302
 ^http://www.gwv7.com/b.php? http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php 302
-^http://jd.cn/ https://m.jd.com/ header
-^http://jd.com/ https://m.jd.com/ header
-^http://www.jd.cn/ https://m.jd.com/ header
-^http://www.jd.com/ https://m.jd.com/ header
-^http://m.jd.com/ https://m.jd.com/ header
+^http://jd.cn/ https://m.jd.com/ 302
+^http://jd.com/ https://m.jd.com/ 302
+^http://www.jd.cn/ https://m.jd.com/ 302
+^http://www.jd.com/ https://m.jd.com/ 302
+^http://m.jd.com/ https://m.jd.com/ 302
 ^http://item.m.jd.com/ http://rewrite.websocket.site:10/Other/Application/360Buy/360Buy.php?&JDMethod=Browse&JDHijack= header
 ^http://p.m.jd.com/ http://rewrite.websocket.site:10/Other/Application/360Buy/360Buy.php?&JDMethod=Portal&JDHijack= header
 ^http://so.m.jd.com/ http://rewrite.websocket.site:10/Other/Application/360Buy/360Buy.php?&JDMethod=Serach&JDHijack= header
