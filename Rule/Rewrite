@@ -30,6 +30,7 @@
 ^http://www.jd.com https://m.jd.com 302
 ^http://m.jd.com https://m.jd.com 302
 ^http://union.click.jd.com/sem.php? http://union.click.jd.com/sem.php?adblock= header
+^http://union.click.jd.com/jda? http://union.click.jd.com/jda?adblock= header
 ^http://item.m.jd.com/ https://item.m.jd.com/ 302
 ^http://p.m.jd.com/ https://p.m.jd.com/ 302
 ^http://so.m.jd.com/ https://so.m.jd.com/ 302
