@@ -40,6 +40,7 @@
 ^http://taobao.com/ https://m.taobao.com/ 302
 ^http://www.taobao.com/ https://m.taobao.com/ 302
 ^http://m.taobao.com/ https://m.taobao.com/ 302
+^http://m.yhd.com/1/? http://m.yhd.com/1/?adbock=
 ^http://yes1.feng.com/images http://rewrite.websocket.site:10/Other/Static/Images/background.png? header
 ^http://yes1.feng.com/view.php http://rewrite.websocket.site:10/Other/Static/PHP/Package.php header
 ^http://push.feng.com/resource/photo/appimg/launchimage - reject
