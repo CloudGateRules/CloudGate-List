@@ -1,11 +1,11 @@
 # Host
-www.pcbeta.com = 218.93.127.136
-bbs.pcbeta.com = 218.93.127.136
-mac.pcbeta.com = 218.93.127.136
-i.pcbeta.com = 218.93.127.136
-uc.pcbeta.com = 218.93.127.136
-static.template.pcbeta.com = 218.93.127.136
-cdn.pcbeta.static.inimc.com = 218.93.127.136
-cdn.pcbeta.css.inimc.com = 218.93.127.136
-cdn.pcbeta.attachment.inimc.com = 218.93.127.136
-cdn.pcbeta.img.inimc.com = 218.93.127.136
+# www.pcbeta.com = 218.93.127.136
+# bbs.pcbeta.com = 218.93.127.136
+# mac.pcbeta.com = 218.93.127.136
+# i.pcbeta.com = 218.93.127.136
+# uc.pcbeta.com = 218.93.127.136
+# static.template.pcbeta.com = 218.93.127.136
+# cdn.pcbeta.static.inimc.com = 218.93.127.136
+# cdn.pcbeta.css.inimc.com = 218.93.127.136
+# cdn.pcbeta.attachment.inimc.com = 218.93.127.136
+# cdn.pcbeta.img.inimc.com = 218.93.127.136
