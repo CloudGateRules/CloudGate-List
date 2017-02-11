@@ -1,5 +1,5 @@
 # CloudGate-List
->注意:<code>2017-02-12 GMT 2:00</code>之前Fork都需要重新删除掉再Fork,因为新增了Host模块,可以自定义,缺少会报错的!!!或者自己在Fork里面上传这个模块!
+>注意:<code>2017-02-12 GMT 2:00</code>之前Fork都需要重新删除掉再Fork,因为新增了Host模块,可以自定义,缺少会报错的!!!或者自己在Fork里面上传这个模块!<br>
 >注意:<code>2017-02-08 GMT 9:00</code>之前Fork都需要重新删除掉再Fork,因为新增了USERAGENT模块和General模块,可以自定义,缺少会报错的!!!或者自己在Fork里面上传这两个模块!
 ## 关于提交规则:
 >禁止提交(色情/政治/无法打开/赌博/邪教/Shadowsocks站点),不符合的将会进行删除,提交后会自动进行扫描websitetitle or statuscode除包含以上内容外的都可以提交!我只管本规则列表,其余规则列表和我无关.
