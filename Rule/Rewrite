@@ -109,3 +109,4 @@
 ^http://iface2.iqiyi.com/views_pop/3.0/pop_home? - reject
 ^http://msg.71.am - reject
 ^http://msga.cupid.iqiyi.com - reject
+^http://cdn.data.video.iqiyi.com/cdn/qiyiapp/20161214/\w+/\w+.zip http://ogtre5vp0.bkt.clouddn.com/iOS_tabbarDaPoster_1214.zip header
