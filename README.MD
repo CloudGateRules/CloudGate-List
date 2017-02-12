@@ -1,5 +1,8 @@
 # CloudGate-List
+>注意:<code>2017-02-12 GMT 2:00</code>之前Fork都需要重新删除掉再Fork,因为新增了Host模块,可以自定义,缺少会报错的!!!或者自己在Fork里面上传这个模块!<br>
 >注意:<code>2017-02-08 GMT 9:00</code>之前Fork都需要重新删除掉再Fork,因为新增了USERAGENT模块和General模块,可以自定义,缺少会报错的!!!或者自己在Fork里面上传这两个模块!
+## 关于提交规则:
+>禁止提交(色情/政治/无法打开/赌博/邪教/Shadowsocks站点),不符合的将会进行删除,提交后会自动进行扫描websitetitle or statuscode除包含以上内容外的都可以提交!我只管本规则列表,其余规则列表和我无关.
 ## 关于如何使用:
 >简单的描述一下,首先你需要Fork一下本项目,当然你也可以使用其他人的规则列表!<br>
 >紧接着你可以访问以下地址下载属于你的自定义规则或者修改规则列表文件如:<br>
@@ -8,7 +11,7 @@
 <br>
 ><code>https://async.be/Rule/Basic/Surge.php?List=https://raw.githubusercontent.com/lhie1/CloudGate-List/master/Rule/</code>
 <br>
->可以在参数的结尾用'&'符连接其他参数,参数不区分顺序,所有规则都可以使用'RuleList'功能!<br>
+>可以在参数的结尾用'&'符连接其他参数,参数不区分顺序,所有规则都可以使用'List'功能!<br>
 >禁止添加"大文件"即524288字节(512KB)以上的,所有大文件将会被拒绝!<br>
 >规则列表的格式不同于规则格式,如下列格式:<br>
 >Proxy(Advanced/Basic):<code>DOMAIN,0rz.tw or DOMAIN-SUFFIX,0rz.tw</code><br>
