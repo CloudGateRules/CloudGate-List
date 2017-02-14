@@ -109,5 +109,5 @@
 ^http://iface2.iqiyi.com/views_pop/3.0/pop_home? - reject
 ^http://msg.71.am - reject
 ^http://msga.cupid.iqiyi.com - reject
-^http://pic\d{1}.qiyipic.com/common _ reject
-^http://t\d{2}.baidu.com _ reject
+^http://pic\d{1}.qiyipic.com/common - reject
+^http://t\d{2}.baidu.com - reject
