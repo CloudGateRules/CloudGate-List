@@ -251,6 +251,7 @@ DOMAIN,data.video.qiyi.com
 DOMAIN,dm.toutiao.com
 DOMAIN-SUFFIX,dap.gentags.net
 DOMAIN,dsp-impr2.youdao.com
+DOMAIN-SUFFIX,duiba.com.cn
 DOMAIN-SUFFIX,dd.wenwo.com
 DOMAIN,dol.tianya.cn
 DOMAIN,dev.dc.letv.com
@@ -582,6 +583,7 @@ DOMAIN,sp1.baidu.com
 DOMAIN-SUFFIX,ssp-ces.gameloft.com
 DOMAIN-SUFFIX,show.58dtpf.com
 DOMAIN-SUFFIX,sohu.wrating.com
+DOMAIN-SUFFIX,soarfi.cn
 DOMAIN-SUFFIX,show.pipi7788.com
 DOMAIN,stat.m.jd.com
 DOMAIN-SUFFIX,statics.motu.pagechoice.net
@@ -653,6 +655,7 @@ DOMAIN-SUFFIX,w8.com.cn
 DOMAIN-SUFFIX,whxhxwz.com
 DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,wan.sogou.com
+DOMAIN-SUFFIX,winasdaq.com
 DOMAIN,wan.liebao.cn
 DOMAIN,wt.39.net
 DOMAIN-SUFFIX,wkanx.com
