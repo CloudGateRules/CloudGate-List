@@ -112,3 +112,8 @@
 ^http://msga.cupid.iqiyi.com - reject
 ^http://pic\d{1}.qiyipic.com/common - reject
 ^http://t\d{2}.baidu.com - reject
+^http://pl.youku.com - reject
+^http://l.youku.com - reject
+^http://irs01.com - reject
+^http://atm.youku.com - reject
+^http://ad.api.3g.youku.com - reject
