@@ -120,4 +120,4 @@
 # Rewrite=>Sohu
 ^(http|https)://m.aty.sohu.com/openload? - reject
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
-^(http|https)://agn.aty.sohu.com/m? - rejetct
+^(http|https)://agn.aty.sohu.com/m? - reject
