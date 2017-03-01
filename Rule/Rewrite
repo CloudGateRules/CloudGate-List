@@ -142,3 +142,5 @@
 ^(http|https)://api.tv.sohu.com/mobile_user/push/uploadtoken.json? - reject
 ^(http|https)://mbl.56.com/config/v1/common/config.union.ios.do? - reject
 ^(http|https)://hui.sohu.com/predownload2/? - reject
+# Rewrite=>Zhihu
+^(http|https)://api.zhihu.com/carousel? - reject
