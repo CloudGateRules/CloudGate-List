@@ -127,7 +127,7 @@
 ^(http|https)://sqimg.qq.com/ https://sqimg.qq.com/ 302
 ^(http|https)://t\d{2}.baidu.com - reject
 ^(http|https)://n.mark.letv.com/m3u8api/ http://rewrite.websocket.site:10/Other/Application/Letv/Letv.php header
-^(http|https)://m.yhd.com/1/? http://m.yhd.com/1/?adbock=
+^(http|https)://m.yhd.com/1/? http://m.yhd.com/1/?adbock= 302
 # Rewrite=>Sohu
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/v4/mobile/control/switch.json? - reject
@@ -135,7 +135,7 @@
 ^(http|https)://s1.api.tv.itc.cn/v6/mobile/channel/list.json? - reject
 ^(http|https)://s1.api.tv.itc.cn/v4/mobile/searchFunctionConfig/list.json? - reject
 ^(http|https)://s1.api.tv.itc.cn/v4/mobile/feeling/list.json? - reject
-^(http|https)://mmg.aty.sohu.com/pvlog?
+^(http|https)://mmg.aty.sohu.com/pvlog? - reject
 ^(http|https)://mmg.aty.sohu.com/mqs? - reject
 ^(http|https)://agn.aty.sohu.com/m? - reject
 ^(http|https)://m.aty.sohu.com/openload? - reject
