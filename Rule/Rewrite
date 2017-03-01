@@ -132,6 +132,7 @@
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/v4/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/mobile_user/device/clientconf.json? - reject
+^(http|https)://api.tv.sohu.com/v4/mobile/albumdetail.json? - reject
 ^(http|https)://s1.api.tv.itc.cn/v4/mobile/searchFunctionConfig/list.json? - reject
 ^(http|https)://s1.api.tv.itc.cn/v4/mobile/feeling/list.json? - reject
 ^(http|https)://mmg.aty.sohu.com/pvlog? - reject
