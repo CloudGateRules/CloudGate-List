@@ -13,6 +13,7 @@
 ^(http|https)://106.75.65.92 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^(http|https)://120.26.151.246 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^(http|https)://120.55.199.139 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
+^(http|https)://120.76.189.132 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^(http|https)://120.132.57.41 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^(http|https)://120.132.63.203 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
 ^(http|https)://122.226.223.163 http://rewrite.websocket.site:10/Other/Anti-Hijack/Anti-Hijack.php? header
