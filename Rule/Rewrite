@@ -94,7 +94,7 @@
 ^(http|https)://burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/Request/ header
 ^(http|https)://api.mobile.youku.com/initial? http://burpsuite.applinzi.com/Request/ 302
 ^(http|https)://home.mobile.youku.com/layout/iphone/v5/home/page? http://burpsuite.applinzi.com/Request/ header
-^(http|https)://appsdk.soku.com/r/r/v2? - reject
+^(http|https)://appsdk.soku.com/bg/r? - reject
 # Rewrite=>ZhuiShu
 ^(http|https)://api.zhuishushenqi.com/advert - reject
 ^(http|https)://api.zhuishushenqi.com/recommend - reject
