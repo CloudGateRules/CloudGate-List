@@ -1,4 +1,5 @@
 # REJECT
+DOMAIN-SUFFIX,0i-i0.com
 DOMAIN-SUFFIX,00oo00.com
 DOMAIN-SUFFIX,0563d.com
 DOMAIN-SUFFIX,0311zs.net
@@ -578,6 +579,7 @@ DOMAIN-SUFFIX,sspsky.com
 DOMAIN-SUFFIX,stat.youku.com
 DOMAIN,strip.taobaocdn.com
 DOMAIN-SUFFIX,stats.tudou.com
+DOMAIN-SUFFIX,spotad.cn
 DOMAIN,stat.it168.com
 DOMAIN-SUFFIX,simaba.taobao.com
 DOMAIN-SUFFIX,slog.sina.cn
