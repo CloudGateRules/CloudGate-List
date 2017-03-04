@@ -92,7 +92,7 @@
 ^(http|https)://i-play.mobile.youku.com/common/v5/play? http://burpsuite.applinzi.com/Request/ header
 ^(http|https)://d.m6.cms.mobile.youku.com/player/domain_name? http://burpsuite.applinzi.com/Request/ header
 ^(http|https)://burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/Request/ header
-^(http|https)://api.mobile.youku.com/initial? http://burpsuite.applinzi.com/Request/ header
+^(http|https)://api.mobile.youku.com/initial? http://burpsuite.applinzi.com/Request/ 302
 ^(http|https)://home.mobile.youku.com/layout/iphone/v5/home/page? http://burpsuite.applinzi.com/Request/ header
 # Rewrite=>ZhuiShu
 ^(http|https)://api.zhuishushenqi.com/advert - reject
