@@ -151,4 +151,4 @@
 ^(http|https)://hui.sohu.com/predownload2/? - reject
 # Rewrite=>Zhihu
 ^(http|https)://api.zhihu.com/carousel? - reject
-^(http|https)://www.zhihu.com/node/Banner?loc=question_down&question_token=25504353
+^(http|https)://www.zhihu.com/node/Banner? - reject
