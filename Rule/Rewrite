@@ -135,6 +135,7 @@
 ^(http|https)://m.+.china.com.cn/statics/sdmobile/js/mobile.advert.js - reject
 ^(http|https)://m.+.china.com.cn/statics/sdmobile/js/ad - reject
 ^(http|https)://m.+.china.com.cn/statics/sdmobile/js/mobileshare.js - reject
+^(http|https)://www.clezz.com/c2.php http://burpsuite.applinzi.com/hola.php header
 # Rewrite=>Sohu
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/v4/mobile/control/switch.json? - reject
