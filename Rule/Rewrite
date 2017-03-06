@@ -132,6 +132,8 @@
 ^(http|https)://t\d{2}.baidu.com - reject
 ^(http|https)://n.mark.letv.com/m3u8api/ http://rewrite.websocket.site:10/Other/Application/Letv/Letv.php header
 ^(http|https)://m.yhd.com/1/? http://m.yhd.com/1/?adbock= 302
+^(http|https)://m.+.china.com.cn/statics/sdmobile/js/mobile.advert.js - reject
+^(http|https)://m.+.china.com.cn/statics/sdmobile/js/ad - reject
 # Rewrite=>Sohu
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/v4/mobile/control/switch.json? - reject
