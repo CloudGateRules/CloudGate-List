@@ -152,3 +152,4 @@
 # Rewrite=>Zhihu
 ^(http|https)://api.zhihu.com/carousel? - reject
 ^(http|https)://www.zhihu.com/node/Banner? - reject
+^(http|https)://www.zhihu.com/api/v4/banners/mobile_banner? - reject
