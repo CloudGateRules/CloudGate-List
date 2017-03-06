@@ -155,3 +155,4 @@
 ^(http|https)://www.zhihu.com/api/v4/banners/mobile_banner? - reject
 # Rewrite=>Flex
 ^(http|https)://api2.getflex.co/user/signIn http://burpsuite.applinzi.com/Flex/test.php?Method=signIn 302
+^(http|https)://api2.getflex.co/user/profileSettings/info http://burpsuite.applinzi.com/Flex/test.php?Method=profileSettings 302
