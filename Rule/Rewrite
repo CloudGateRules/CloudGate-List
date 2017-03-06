@@ -154,5 +154,5 @@
 ^(http|https)://www.zhihu.com/node/Banner? - reject
 ^(http|https)://www.zhihu.com/api/v4/banners/mobile_banner? - reject
 # Rewrite=>Flex
-^(http|https)://api2.getflex.co/user/profileSettings/info http://burpsuite.applinzi.com/Flex/test.php?Method=profileSettings 302
-^(http|https)://api2.getflex.co/patch/download http://burpsuite.applinzi.com/Flex/test.php?Method=download 302
+^(http|https)://delete-api2.getflex.co/user/profileSettings/info http://burpsuite.applinzi.com/Flex/test.php?Method=profileSettings 302
+^(http|https)://delete-api2.getflex.co/patch/download http://burpsuite.applinzi.com/Flex/test.php?Method=download 302
