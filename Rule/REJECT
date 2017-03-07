@@ -1,4 +1,5 @@
 # REJECT
+DOMAIN-SUFFIX,0i-i0.com
 DOMAIN-SUFFIX,00oo00.com
 DOMAIN-SUFFIX,0563d.com
 DOMAIN-SUFFIX,0311zs.net
@@ -249,6 +250,7 @@ DOMAIN-SUFFIX,dcads.sina.com.cn
 DOMAIN-SUFFIX,de.as.pptv.com
 DOMAIN,data.video.qiyi.com
 DOMAIN,dm.toutiao.com
+DOMAIN-SUFFIX,dian-ing.com
 DOMAIN-SUFFIX,dap.gentags.net
 DOMAIN-SUFFIX,duiba.com.cn
 DOMAIN-SUFFIX,dd.wenwo.com
@@ -409,8 +411,10 @@ DOMAIN-SUFFIX,jxwcbf.com
 DOMAIN-SUFFIX,jermr.com
 DOMAIN,jump.luna.58.com
 DOMAIN-SUFFIX,js.revsci.net
+DOMAIN-SUFFIX,jesgoo.com
 DOMAIN-SUFFIX,jisucn.com
 DOMAIN-SUFFIX,jusha.com
+DOMAIN-SUFFIX,jzm81.com
 DOMAIN-SUFFIX,jzv1.com
 DOMAIN-SUFFIX,jiafe.com
 DOMAIN,jiaoben.eastday.com
@@ -529,6 +533,7 @@ DOMAIN,partner.toutiao.com
 DOMAIN,pixel.wp.com
 DOMAIN-SUFFIX,pv.alert.autohome.com.cn
 DOMAIN-SUFFIX,playnimei.cn
+DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,pailady.com
 DOMAIN,paopao.iqiyi.com
 DOMAIN-SUFFIX,pro.cn
@@ -578,6 +583,7 @@ DOMAIN-SUFFIX,sspsky.com
 DOMAIN-SUFFIX,stat.youku.com
 DOMAIN,strip.taobaocdn.com
 DOMAIN-SUFFIX,stats.tudou.com
+DOMAIN-SUFFIX,spotad.cn
 DOMAIN,stat.it168.com
 DOMAIN-SUFFIX,simaba.taobao.com
 DOMAIN-SUFFIX,slog.sina.cn
@@ -698,6 +704,7 @@ DOMAIN-SUFFIX,yhdichan.com
 DOMAIN-SUFFIX,yoyi.com.cn
 DOMAIN-SUFFIX,ychun03.com
 DOMAIN-SUFFIX,ymrej.com
+DOMAIN-SUFFIX,yf898.com
 DOMAIN-SUFFIX,znsv.baidu.com
 DOMAIN-SUFFIX,zdw.w8.com.cn
 DOMAIN-SUFFIX,zhiziyun.com
