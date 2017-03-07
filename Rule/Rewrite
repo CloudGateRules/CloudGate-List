@@ -103,6 +103,7 @@
 ^(http|https)://moreinfo.thebigboss.org/moreinfo/depiction.php http://burpsuite.applinzi.com/Request/ header
 ^(http|https)://apt.thebigboss.org/developer-packages.php http://burpsuite.applinzi.com/Request/ header
 # Rewrite=>IQIYI
+^(http|https)://.+/videos/other/.+\.f4v - reject
 ^(http|https)://iface.iqiyi.com/api/getNewAdInfo? - reject
 ^(http|https)://iface2.iqiyi.com/views_pop/3.0/pop_control? - reject
 ^(http|https)://iface2.iqiyi.com/views_pop/3.0/pop_home? - reject
@@ -122,7 +123,6 @@
 ^(http|https)://cnzz.com/ http://rewrite.websocket.site:10/Other/Static/Images/background.png? header
 ^(http|https)://huichuan.sm.cn/jsad? - reject
 ^(http|https)://wmedia-track.uc.cn - reject
-^(http|https)://.+/videos/other/.+\.f4v - reject
 ^(http|https)://m.elecfans.com/static/js/ad.js - reject
 ^(http|https)://www1.elecfans.com/www/delivery/ - reject
 ^(http|https)://static.iask.cn/m-v20161228/js/common/adAudit.min.js - reject
