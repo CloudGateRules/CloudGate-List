@@ -10,7 +10,7 @@
     },
     "Hosts": {
         "Default_YouTubeIP": "219.76.4.3",
-        "Backups_YouTubeIP": "219.76.4.3"
+        "Backups_YouTubeIP": "218.254.1.15"
     },
     "Module": {
         "Potatso": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Potatso_General.cfg",
