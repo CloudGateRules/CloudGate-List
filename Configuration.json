@@ -13,9 +13,9 @@
         "Backups_YouTubeIP": "219.76.4.3"
     },
     "Module": {
-        "Potatso_Config_Module": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Potatso_General.cfg",
-        "ABIGT_Config_Module": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/A.BIG.T_General.cfg",
-        "Surge_Config_Module": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Surge_General.cfg",
-        "Shadowrocket_Config_Module": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Shadowrocket_General.cfg"
+        "Potatso": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Potatso_General.cfg",
+        "ABIGT": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/A.BIG.T_General.cfg",
+        "Surge": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Surge_General.cfg",
+        "Shadowrocket": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Shadowrocket_General.cfg"
     }
 }
