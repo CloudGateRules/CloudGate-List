@@ -1,7 +1,7 @@
 {
     "Config": {
         "测试配置": true,
-        "HTTPS": true,
+        "HTTPS": false,
         "AutoGroupURL": "http://www.gstatic.com/generate_204"
     },
     "Interface": {
