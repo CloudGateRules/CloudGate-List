@@ -89,11 +89,11 @@
 ^(http|https)://l.youku.com - reject
 ^(http|https)://atm.youku.com - reject
 ^(http|https)://ad.api.3g.youku.com - reject
-^(http|https)://i-play.mobile.youku.com/common/v5/play? http://burpsuite.applinzi.com/Request/ header
-^(http|https)://d.m6.cms.mobile.youku.com/player/domain_name? http://burpsuite.applinzi.com/Request/ header
-^(http|https)://burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/Request/ header
-^(http|https)://api.mobile.youku.com/initial? http://burpsuite.applinzi.com/Request/ 302
-^(http|https)://home.mobile.youku.com/layout/iphone/v5/home/page? http://burpsuite.applinzi.com/Request/ header
+^(http|https)://i-play.mobile.youku.com/common/v5/play? http://async_be.daocloudapp.com/UCloudTunnel/Request/ header
+^(http|https)://d.m6.cms.mobile.youku.com/player/domain_name? http://async_be.daocloudapp.com/UCloudTunnel/Request/ header
+^(http|https)://async_be.daocloudapp.com/common/v5/play http://async_be.daocloudapp.com/UCloudTunnel/Request/ header
+^(http|https)://api.mobile.youku.com/initial? http://async_be.daocloudapp.com/UCloudTunnel/Request/ 302
+^(http|https)://home.mobile.youku.com/layout/iphone/v5/home/page? http://async_be.daocloudapp.com/UCloudTunnel/Request/ header
 ^(http|https)://appsdk.soku.com/bg/r? - reject
 # Rewrite=>ZhuiShu
 ^(http|https)://api.zhuishushenqi.com/advert - reject
