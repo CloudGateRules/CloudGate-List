@@ -9,8 +9,8 @@
         "CryptoFile": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Encrypt/Crypto"
     },
     "Hosts": {
-        "Default_YouTubeIP": "219.76.4.3",
-        "Backups_YouTubeIP": "218.254.1.15"
+        "Default_YouTubeIP": "218.254.1.15",
+        "Backups_YouTubeIP": "219.76.4.3"
     },
     "Module": {
         "Potatso": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Potatso_General.cfg",
