@@ -135,6 +135,10 @@
 ^(http|https)://m.+.china.com.cn/statics/sdmobile/js/mobile.advert.js - reject
 ^(http|https)://m.+.china.com.cn/statics/sdmobile/js/ad - reject
 ^(http|https)://m.+.china.com.cn/statics/sdmobile/js/mobileshare.js - reject
+^(http|https)://statc.mytuner.mobi/media/banners/ - reject
+^.*/allOne.php\?ad_name=main_splash_ios - reject
+^(http|https)://gorgon.youdao.com\/gorgon\/request\.s\?v=.* - reject
+^(http|https)://impservice.youdao.com\/imp\/request\.s\?req=.* - reject
 # Rewrite=>Sohu
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/v4/mobile/control/switch.json? - reject

@@ -1,0 +1,21 @@
+{
+    "Config": {
+        "HTTPS": true,
+        "AutoGroupURL": "http://www.gstatic.com/generate_204"
+    },
+    "Interface": {
+        "ModuleAPI": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Rule/",
+        "HostsAPI": "https://raw.githubusercontent.com/racaljk/hosts/master/hosts",
+        "CryptoFile": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Encrypt/Crypto"
+    },
+    "Hosts": {
+        "Default_YouTubeIP": "219.76.4.3",
+        "Backups_YouTubeIP": "218.254.1.15"
+    },
+    "Module": {
+        "Potatso": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Potatso_General.cfg",
+        "ABIGT": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/A.BIG.T_General.cfg",
+        "Surge": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Surge_General.cfg",
+        "Shadowrocket": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Cloud/Shadowrocket_General.cfg"
+    }
+}
