@@ -140,6 +140,7 @@
 ^(http|https)://gorgon.youdao.com\/gorgon\/request\.s\?v=.* - reject
 ^(http|https)://impservice.youdao.com\/imp\/request\.s\?req=.* - reject
 ^(http|https)://iphone265g.com/templates/iphone/bottomAd.js - reject
+^(http|https)://fanyi-app.baidu.com/transapp/agent.php http://burpsuite.applinzi.com/Request/ 302
 # Rewrite=>Sohu
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/v4/mobile/control/switch.json? - reject
