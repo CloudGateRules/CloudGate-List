@@ -139,6 +139,7 @@
 ^.*/allOne.php\?ad_name=main_splash_ios - reject
 ^(http|https)://gorgon.youdao.com\/gorgon\/request\.s\?v=.* - reject
 ^(http|https)://impservice.youdao.com\/imp\/request\.s\?req=.* - reject
+^(http|https)://iphone265g.com/templates/iphone/bottomAd.js - reject
 # Rewrite=>Sohu
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/v4/mobile/control/switch.json? - reject
