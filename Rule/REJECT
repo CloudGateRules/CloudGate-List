@@ -437,6 +437,7 @@ DOMAIN-SUFFIX,log.mix.sina.com.cn
 DOMAIN-SUFFIX,lstat.youku.com
 DOMAIN-SUFFIX,linkpage.cn
 DOMAIN-SUFFIX,l.youku.com
+DOMAIN-SUFFIX,lnk8z.com
 DOMAIN,logger.qingting.fm
 DOMAIN,log.stat.kugou.com
 DOMAIN,log.kuwo.cn
@@ -549,9 +550,11 @@ DOMAIN-SUFFIX,pcookie.mlt01.com
 DOMAIN-SUFFIX,profile.ams50.cloudfront.net
 DOMAIN-SUFFIX,quote.tool.hexun.com
 DOMAIN-SUFFIX,qf.56.com
+DOMAIN-SUFFIX,quw18.com
 DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,qqabcd8899.cn
 DOMAIN-SUFFIX,qtmojo.com
+DOMAIN-SUFFIX,qmqj2.xy.com
 DOMAIN-SUFFIX,qos.117go.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,rtax.criteo.com
