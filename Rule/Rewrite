@@ -8,29 +8,29 @@
 ^(http|https)://uplus7.win/ https://async.be/ 302
 ^(http|https)://burpsuite.site https://async.be 302
 # Rewrite=>Anti_ISP_JavaScript_Injection
-^(http|https)://101.251.211.235 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://103.249.254.113 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://106.75.65.92 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://120.26.151.246 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://120.55.199.139 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://120.76.189.132 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://120.132.57.41 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://120.132.63.203 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://122.226.223.163 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://139.196.239.52 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://180.76.155.58 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://183.131.79.30 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://211.155.94.198 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://223.6.255.99 http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://cache.gclick.cn/ http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://cache.changjingyi.cn/ http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://c.minisplat.cn/ http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://c1.minisplat.cn/ http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
+^(http|https)://101.251.211.235 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://103.249.254.113 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://106.75.65.92 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://120.26.151.246 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://120.55.199.139 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://120.76.189.132 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://120.132.57.41 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://120.132.63.203 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://122.226.223.163 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://139.196.239.52 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://180.76.155.58 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://183.131.79.30 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://211.155.94.198 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://223.6.255.99 http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://cache.gclick.cn/ http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://cache.changjingyi.cn/ http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://c.minisplat.cn/ http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://c1.minisplat.cn/ http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
 # Rewrite=>Anti_ISP_Safari_Baidu_CPM_Hijack
-^(http|https)://www.babyye.com/b.php http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
-^(http|https)://www.likeji.net/b.php http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
-^(http|https)://m.coolaiy.com/b.php http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
-^(http|https)://www.gwv7.com/b.php http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
+^(http|https)://www.babyye.com/b.php http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
+^(http|https)://www.likeji.net/b.php http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
+^(http|https)://m.coolaiy.com/b.php http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
+^(http|https)://www.gwv7.com/b.php http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
 # Rewrite=>Anti_ISP_JD_Hijack
 ^(http|https)://jd.cn https://m.jd.com 302
 ^(http|https)://jd.com https://m.jd.com 302
@@ -89,20 +89,20 @@
 ^(http|https)://l.youku.com - reject
 ^(http|https)://atm.youku.com - reject
 ^(http|https)://ad.api.3g.youku.com - reject
-^(http|https)://i-play.mobile.youku.com/common/v5/play? http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://d.m6.cms.mobile.youku.com/player/domain_name? http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://api.mobile.youku.com/initial? http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
-^(http|https)://home.mobile.youku.com/layout/iphone/v5/home/page? http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
+^(http|https)://i-play.mobile.youku.com/common/v5/play? http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://d.m6.cms.mobile.youku.com/player/domain_name? http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://api.mobile.youku.com/initial? http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
+^(http|https)://home.mobile.youku.com/layout/iphone/v5/home/page? http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
 ^(http|https)://appsdk.soku.com/bg/r? - reject
-^(http|https)://ups.youku.com/ups/get.json? http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
+^(http|https)://ups.youku.com/ups/get.json? http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
 # Rewrite=>ZhuiShu
 ^(http|https)://api.zhuishushenqi.com/advert - reject
 ^(http|https)://api.zhuishushenqi.com/recommend - reject
 ^(http|https)://api.zhuishushenqi.com/notification/shelfMessage - reject
 # Rewrite=>Cydia_BigBoss
-^(http|https)://moreinfo.thebigboss.org/moreinfo/depiction.php http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
-^(http|https)://apt.thebigboss.org/developer-packages.php http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& header
+^(http|https)://moreinfo.thebigboss.org/moreinfo/depiction.php http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
+^(http|https)://apt.thebigboss.org/developer-packages.php http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
 # Rewrite=>IQIYI
 ^(http|https)://.+/videos/other/.+\.f4v - reject
 ^(http|https)://iface.iqiyi.com/api/getNewAdInfo? - reject
@@ -112,9 +112,9 @@
 ^(http|https)://msga.cupid.iqiyi.com - reject
 ^(http|https)://pic\d{1}.qiyipic.com/common - reject
 # Rewrite=>ChinaRailcom
-^(http|https)://211.98.71.195:8080/ http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
-^(http|https)://211.98.71.196:8080/ http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
-^(http|https)://211.98.70.226:8080/ http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
+^(http|https)://211.98.71.195:8080/ http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
+^(http|https)://211.98.71.196:8080/ http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
+^(http|https)://211.98.70.226:8080/ http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
 # Rewrite=>Other
 (api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com - reject
 ^(http|https)://www.iqshw.com/d/js/m http://rewrite.websocket.site:10/Other/Static/JS/Package.js? header
@@ -141,7 +141,7 @@
 ^(http|https)://gorgon.youdao.com\/gorgon\/request\.s\?v=.* - reject
 ^(http|https)://impservice.youdao.com\/imp\/request\.s\?req=.* - reject
 ^(http|https)://iphone265g.com/templates/iphone/bottomAd.js - reject
-^(http|https)://fanyi-app.baidu.com/transapp/agent.php http://burpsuite.applinzi.com/NetWork/?configuration_token=<TOKEN>& 302
+^(http|https)://fanyi-app.baidu.com/transapp/agent.php http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
 # Rewrite=>Sohu
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/v4/mobile/control/switch.json? - reject
