@@ -116,7 +116,7 @@
 ^(http|https)://211.98.71.196:8080/ http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
 ^(http|https)://211.98.70.226:8080/ http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
 # Rewrite=>Other
-(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com - reject
+(ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map)?\.(baidu|n\.shifen)\.com _ reject
 ^(http|https)://www.iqshw.com/d/js/m http://rewrite.websocket.site:10/Other/Static/JS/Package.js? header
 ^(http|https)://cfg.m.ttkvod.com/mobile/ttk_mobile_1.8.txt http://ogtre5vp0.bkt.clouddn.com/Static/TXT/ttk_mobile_1.8.txt header
 ^(http|https)://static.m.ttkvod.com/static_cahce/index/index.txt http://ogtre5vp0.bkt.clouddn.com/Static/TXT/index.txt header
