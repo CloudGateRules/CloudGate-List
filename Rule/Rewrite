@@ -142,6 +142,7 @@
 ^(http|https)://impservice.youdao.com\/imp\/request\.s\?req=.* - reject
 ^(http|https)://iphone265g.com/templates/iphone/bottomAd.js - reject
 ^(http|https)://fanyi-app.baidu.com/transapp/agent.php http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
+^(http|https)://m.qu.la/stylewap/js/wap.js http://ogtre5vp0.bkt.clouddn.com/qu_la_wap.js 302
 # Rewrite=>Sohu
 ^(http|https)://api.tv.sohu.com/mobile/control/switch.json? - reject
 ^(http|https)://api.tv.sohu.com/v4/mobile/control/switch.json? - reject
