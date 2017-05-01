@@ -95,7 +95,7 @@
 ^(http|https)://api.mobile.youku.com/initial? http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
 ^(http|https)://home.mobile.youku.com/layout/iphone/v5/home/page? http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& header
 ^(http|https)://appsdk.soku.com/bg/r? - reject
-^(http|https)://ups.youku.com/ups/get.json? http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
+^(https)://ups.youku.com/ups/get.json? http://burpsuite.applinzi.com/Network/?configuration_token=<TOKEN>& 302
 # Rewrite=>ZhuiShu
 ^(http|https)://api.zhuishushenqi.com/advert - reject
 ^(http|https)://api.zhuishushenqi.com/recommend - reject
