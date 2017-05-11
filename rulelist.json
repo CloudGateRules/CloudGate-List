@@ -1,13 +1,13 @@
 {
     "General": [
-    		"[!General]",
+    	"[!General]",
         "bypass-system = true",
         "skip-proxy = 10.0.0.0/8, 17.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16, localhost, *.local, *.crashlytics.com",
         "bypass-tun = 10.0.0.0/8, 100.64.0.0/10, 127.0.0.0/24, 172.16.0.0/12, 192.168.0.0/16",
         "loglevel = notify"
     ],
     "Apple": [
-    		"[!Rule]",
+    	"[!Rule]",
         "<<Apple",
         "[SUFFIX]|[apple.com]|[DIRECT]",
         "[SUFFIX]|[icloud.com]|[DIRECT]",
