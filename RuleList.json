@@ -1818,6 +1818,12 @@
         "[^dnserror]|[REJECT]",
         "[^openx]|[REJECT]"
     ],
+    "URLREGEX": [
+    	"<<URLREGEX",
+    	"[URLREGEX]|[\\URLREGEX1]|[DIRECT]",
+    	"[URLREGEX]|[\\URLREGEX2]|[REJECT]",
+    	"[URLREGEX]|[\\URLREGEX3]|[Proxy]"
+    ],
     "USERAGENT": [
         "<<USERAGENT",
         "[USERAGENT]|[WeChat*]|[DIRECT]",
@@ -1828,6 +1834,12 @@
         "[USERAGENT]|[Instagram*]|[Proxy]",
         "[USERAGENT]|[YouTube*]|[Proxy]",
         "[USERAGENT]|[Advert*]|[REJECT]"
+    ],
+    "IPCIDR6":[
+    	"<<IPCIDR6",
+    	"[IPCIDR6]|[2006::/16]|[DIRECT]",
+    	"[IPCIDR6]|[2007::/16]|[REJECT]",
+    	"[IPCIDR6]|[2008::/16]|[Proxy]|[no-resolve]"
     ],
     "IPCIDR": [
         "<<IPCIDR",
