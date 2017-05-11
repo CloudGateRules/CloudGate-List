@@ -14,6 +14,8 @@
         "ExcludeHost": true,
         "WIFIAccess": true,
         "Replica": false,
+        "URLREGEX": true,
+        "IPCIDR6": true,
         "USERAGENT": true,
         "IPV6": false,
         "Rule": true
@@ -40,8 +42,10 @@
         "Apple": "Proxyd",
         "Proxy": "Autoxy",
         "KEYWORD": "Proxyb",
-        "IPCIDR": "Proxyc",
+        "URLREGEX": "Proxyb",
         "USERAGENT": "Proxya",
+        "IPCIDR6": "Proxyc",
+        "IPCIDR": "Proxyc",
         "Other": "Autoxy"
     },
     "Other": {
