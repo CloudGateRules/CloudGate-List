@@ -9,7 +9,7 @@
         "CryptoFile": "https://raw.githubusercontent.com/BurpSuite/CloudGate-List/master/Encrypt/Crypto"
     },
     "Hosts": {
-        "Default_YouTubeIP": "216.58.200.225",
+        "Default_YouTubeIP": "219.76.4.70",
         "Backups_YouTubeIP": "218.254.1.15"
     },
     "Module": {
